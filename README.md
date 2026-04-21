@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tr1sma&label=Profile%20views&color=0e75b6&style=flat" alt="tr1sma" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tr1sma" alt="tr1sma" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tr1sma)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently working on [an app for my Girlfirend](https://github.com/Tr1sma/BookLoggerApp)
 
