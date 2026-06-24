@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **HLSL and C++**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Tr1sma?tab=repositories](https://github.com/Tr1sma?tab=repositories)
+- 👨‍💻 My Portfolio can be Found [here](https://nullradix.de)
 
 - 💬 Ask me about **C# backend development**
 
-- 📫 How to reach me **[Click here](https://de.fiverr.com/tristan_sowieja?public_mode=true)**
+- 📫 How to reach me **[Click here](https://nullradix.de)**
 
 - ⚡ Fun fact **I am addicted to Energydrinks**
 
