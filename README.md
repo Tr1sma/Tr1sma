@@ -8,11 +8,11 @@
 
 - 🌱 I’m currently learning **HLSL and C++**
 
-- 👨‍💻 My Portfolio can be Found [here](https://nullradix.de)
+- 👨‍💻 My Portfolio can be Found [here](https://www.nullradix.de)
 
 - 💬 Ask me about **C# backend development**
 
-- 📫 How to reach me **[Click here](https://nullradix.de)**
+- 📫 How to reach me **[Click here](https://www.nullradix.de)**
 
 - ⚡ Fun fact **I am addicted to Energydrinks**
 
