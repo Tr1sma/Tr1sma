@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **[Click here](https://www.nullradix.de)**
 
-- ⚡ Fun fact **I am addicted to Energydrinks**
+- ⚡ Fun fact **I am addicted to Coffee**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tr1sma&show_icons=true&locale=en&layout=compact" alt="tr1sma" /></p>
 
